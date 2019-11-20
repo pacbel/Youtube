@@ -1,0 +1,4 @@
+#Wed Oct 30 19:05:10 BRST 2019
+base.0=D\:\\OneDrive - Sistema Virtual\\flutter\\fluttertube\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
